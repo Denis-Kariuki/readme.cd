@@ -1,0 +1,2 @@
+# readme.cd
+personal info
